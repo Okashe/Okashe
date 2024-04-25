@@ -12,7 +12,7 @@
 - 😄 Pronouns: He
 
 
-- ![](https://github-readme-stats.vercel.app/api?username=Okashe&theme=cobalt&hide_border=false&include_all_commits=true&count_private=true)<br/>
+- ![](https://github-readme-stats.vercel.app/api?username=Okashe&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
 
 # 💻 Tech Stack
