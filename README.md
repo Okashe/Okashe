@@ -10,7 +10,7 @@
 - 💬 Ask me about anything related to coding challenges. Open to discussions on optimizing performance, designing efficient data models, and mastering the art of building robust web applications.
 - 📫 How to reach me: Email: okashabdi88@gmail.com
 - 😄 Pronouns: He
-- ⚡ Fun fact: "Did you know? The term 'bug' to describe a computer glitch originated in 1947 when a moth got trapped inside a relay of the Harvard Mark II computer. Grace Hopper, a computer scientist, coined the term 'debugging' when she removed the moth and noted it in the computer's logbook."
+
 
 - ![](https://github-readme-stats.vercel.app/api?username=Okashe&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
@@ -27,5 +27,8 @@
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)<br/>
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
+
+- ⚡ Fun fact: "Did you know? The term 'bug' to describe a computer glitch originated in 1947 when a moth got trapped inside a relay of the Harvard Mark II computer. Grace Hopper, a computer scientist, coined the term 'debugging' when she removed the moth and noted it in the computer's logbook."
 
 
