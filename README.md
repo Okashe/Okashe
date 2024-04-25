@@ -31,7 +31,7 @@
 ![MONGODB](https://img.shields.io/badge/mongodb-%23ED8B00.svg?style=for-the-badge&logo=mongodb&logoColor=green)
 ![MySQL](https://img.shields.io/badge/mysql-%23007ACC.svg?style=for-the-badge&logo=mysql&logoColor=white)<br/>
 
-# ⚡ Fun facts:
+# ⚡ Fun fact:
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api)](https://github.com/piyushsuthar/github-readme-quotes)
 
 
