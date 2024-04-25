@@ -12,3 +12,5 @@
 - 😄 Pronouns: He
 - ⚡ Fun fact: "Did you know? The term 'bug' to describe a computer glitch originated in 1947 when a moth got trapped inside a relay of the Harvard Mark II computer. Grace Hopper, a computer scientist, coined the term 'debugging' when she removed the moth and noted it in the computer's logbook."
 
+- ![](https://github-readme-stats.vercel.app/api?username=Okashe&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+
