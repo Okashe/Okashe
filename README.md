@@ -31,7 +31,7 @@
 ![MONGODB](https://img.shields.io/badge/mongodb-%23ED8B00.svg?style=for-the-badge&logo=mongodb&logoColor=green)
 ![MySQL](https://img.shields.io/badge/mysql-%23007ACC.svg?style=for-the-badge&logo=mysql&logoColor=white)<br/>
 
-# ⚡ Fun fact:
+# ⚡ Fun facts:
 1. The first computer mouse was made of wood.
 2. The first computer bug was literally a bug - a moth stuck in a computer.
 3. The first programmer was a woman named Ada Lovelace, and she wrote code for a mechanical computer in the 1800s.
@@ -44,10 +44,5 @@
 10. In 2010, a computer virus called "Stuxnet" was created to sabotage Iran's nuclear program. It was the world's first cyberweapon.
 <!-- End Fun Facts -->
 
-<script>
-const facts = document.querySelectorAll('ul li');
-const randomIndex = Math.floor(Math.random() * facts.length);
-document.write(`<p>${facts[randomIndex].textContent}</p>`);
-</script>
 
 
