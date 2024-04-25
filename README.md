@@ -31,6 +31,24 @@
 ![MONGODB](https://img.shields.io/badge/mongodb-%23ED8B00.svg?style=for-the-badge&logo=mongodb&logoColor=green)
 ![MySQL](https://img.shields.io/badge/mysql-%23007ACC.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-- ⚡ Fun fact: "Did you know? The term 'bug' to describe a computer glitch originated in 1947 when a moth got trapped inside a relay of the Harvard Mark II computer. Grace Hopper, a computer scientist, coined the term 'debugging' when she removed the moth and noted it in the computer's logbook."
+- ⚡ Fun fact:
+- <!-- Fun Facts -->
+- The first computer mouse was made of wood.
+- The first computer bug was literally a bug - a moth stuck in a computer.
+- The first programmer was a woman named Ada Lovelace, and she wrote code for a mechanical computer in the 1800s.
+- The average computer user blinks 7 times a minute, compared to the normal rate of 20 times.
+- The world's first computer was called ENIAC, and it was so large that it could only fit in a room the size of a small house.
+- The average person spends about 13 hours a week on the computer, which adds up to about 57 days a year!
+- The keyboard layout we use today, called QWERTY, was designed to slow down typing so that old typewriters wouldn't jam.
+- The computer term "cookie" comes from "magic cookies," which were used in UNIX systems to keep track of users' sessions.
+- The first computer game ever made was called "Spacewar!" and it was created in 1962 by students at MIT.
+- In 2010, a computer virus called "Stuxnet" was created to sabotage Iran's nuclear program. It was the world's first cyberweapon.
+<!-- End Fun Facts -->
+
+<script>
+const facts = document.querySelectorAll('ul li');
+const randomIndex = Math.floor(Math.random() * facts.length);
+document.write(`<p>${facts[randomIndex].textContent}</p>`);
+</script>
 
 
