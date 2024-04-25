@@ -1,7 +1,7 @@
 # 👋 Hi there , I'm Okashe!
 
 
-     I'm a computer science graduate from [Brandon University](https://www.brandonu.ca)<br/>.
+     I'm a computer science graduate from [Brandon University](https://www.brandonu.ca) <br/>
 
 - 🔭 I’m currently working on personal projects including my portfolio
 - 🌱 I’m currently learning Typescript, Nodejs, NextJs & Python
