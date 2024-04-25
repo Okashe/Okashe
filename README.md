@@ -1,7 +1,7 @@
 ### Hello there 👋
 
 
-My name is Okash Mohidin. I'm a computer science graduate from Brandon university. s
+My name is Okash Mohidin. I'm a computer science graduate from Brandon university. 
 
 - 🔭 I’m currently working on personal projects including my portfolio
 - 🌱 I’m currently learning Typescript, Nodejs, NextJs & Python
