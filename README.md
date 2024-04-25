@@ -11,6 +11,9 @@
 - 📫 How to reach me: Email: okashabdi88@gmail.com
 - 😄 Pronouns: He <br/>
 
+# Socials:
+![LinkedIn](https://img.shields.io/badge/linkedin-%23007ACC.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+
 # Statistics<br/>
 
 - ![](https://github-readme-stats.vercel.app/api?username=Okashe&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)<br/>
