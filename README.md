@@ -32,17 +32,7 @@
 ![MySQL](https://img.shields.io/badge/mysql-%23007ACC.svg?style=for-the-badge&logo=mysql&logoColor=white)<br/>
 
 # ⚡ Fun facts:
-1. The first computer mouse was made of wood.
-2. The first computer bug was literally a bug - a moth stuck in a computer.
-3. The first programmer was a woman named Ada Lovelace, and she wrote code for a mechanical computer in the 1800s.
-4. The average computer user blinks 7 times a minute, compared to the normal rate of 20 times.
-5. The world's first computer was called ENIAC, and it was so large that it could only fit in a room the size of a small house.
-6. The average person spends about 13 hours a week on the computer, which adds up to about 57 days a year!
-7. The keyboard layout we use today, called QWERTY, was designed to slow down typing so that old typewriters wouldn't jam.
-8. The computer term "cookie" comes from "magic cookies," which were used in UNIX systems to keep track of users' sessions.
-9. The first computer game ever made was called "Spacewar!" and it was created in 1962 by students at MIT.
-10. In 2010, a computer virus called "Stuxnet" was created to sabotage Iran's nuclear program. It was the world's first cyberweapon.
-<!-- End Fun Facts -->
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api)](https://github.com/piyushsuthar/github-readme-quotes)
 
 
 
