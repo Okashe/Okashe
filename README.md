@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there 👋
 
 
 My name is Okash Mohidin. I'm a computer science graduate from Brandon university. s
