@@ -6,7 +6,7 @@ My name is:<h1>Okash Mohidin</h1> I'm a computer science graduate from Brandon u
 - 🔭 I’m currently working on personal projects including my portfolio
 - 🌱 I’m currently learning Typescript, Nodejs, NextJs & Python
 - 👯 I am looking to collaborate on innovative projects that push the boundaries of technology, creativity, and collaboration to create impactful solutions that make a difference.
-- 🤔 I am looking for help with refining my coding skills, exploring new technologies, and collaborating on exciting projects that challenge and inspire me.
+- 🤔 I am looking for opportunities to refine my coding skills, exploring new technologies, and collaborating on exciting projects that challenge and inspire me.
 - 💬 Ask me about anything related to coding challenges. Open to discussions on optimizing performance, designing efficient data models, and mastering the art of building robust web applications.
 - 📫 How to reach me: Email: okashabdi88@gmail.com
 - 😄 Pronouns: He
