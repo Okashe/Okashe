@@ -1,4 +1,4 @@
-### 👋 Hi there , i'm Okashe
+### 👋 Hi there , I'm Okashe
 
 
 I'm a computer science graduate from [Brandon University](https://www.brandonu.ca)<br/>. 
