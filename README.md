@@ -32,7 +32,6 @@
 ![MySQL](https://img.shields.io/badge/mysql-%23007ACC.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 - ⚡ Fun fact:
-- <!-- Fun Facts -->
 - The first computer mouse was made of wood.
 - The first computer bug was literally a bug - a moth stuck in a computer.
 - The first programmer was a woman named Ada Lovelace, and she wrote code for a mechanical computer in the 1800s.
