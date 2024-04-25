@@ -29,7 +29,7 @@
 ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)<br/>
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![MONGODB](https://img.shields.io/badge/mongodb-%23ED8B00.svg?style=for-the-badge&logo=mongodb&logoColor=green)
-![MySQL](https://img.shields.io/badge/mysql-%23007ACC.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%23007ACC.svg?style=for-the-badge&logo=mysql&logoColor=white)<br/>
 
 - ⚡ Fun fact:
 - The first computer mouse was made of wood.
