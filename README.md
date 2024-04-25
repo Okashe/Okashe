@@ -45,10 +45,6 @@
 - In 2010, a computer virus called "Stuxnet" was created to sabotage Iran's nuclear program. It was the world's first cyberweapon.
 <!-- End Fun Facts -->
 
-<script>
-const facts = document.querySelectorAll('ul li');
-const randomIndex = Math.floor(Math.random() * facts.length);
-document.write(`<p>${facts[randomIndex].textContent}</p>`);
-</script>
+
 
 
