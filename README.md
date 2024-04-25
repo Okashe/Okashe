@@ -3,7 +3,7 @@
 
  -I'm a computer science graduate from [Brandon University](https://www.brandonu.ca)
 
-- 🔭 I’m currently working on personal projects including my portfolio
+- 🔭 I’m currently working on personal projects including [my portfolio](https://okascripts.netlify.app/)
 - 🌱 I’m currently learning Typescript, Nodejs, NextJs & Python
 - 👯 I am looking to collaborate on innovative projects that push the boundaries of technology, creativity, and collaboration to create impactful solutions that make a difference.
 - 🤔 I am looking for opportunities to refine my coding skills, exploring new technologies, and collaborating on exciting projects that challenge and inspire me.
