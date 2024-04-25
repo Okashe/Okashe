@@ -13,10 +13,12 @@
 
 # Socials:
 ![LinkedIn](https://img.shields.io/badge/linkedin-%23007ACC.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+![Facebook](https://img.shields.io/badge/facebook-%23007ACC.svg?style=for-the-badge&logo=facebook&logoColor=white)
 
 # Statistics<br/>
 
 - ![](https://github-readme-stats.vercel.app/api?username=Okashe&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)<br/>
+
 
 
 # 💻 Tech Stack
